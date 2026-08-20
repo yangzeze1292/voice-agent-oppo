@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">语音助手</string>
+    <string name="accessibility_desc">语音助手无障碍服务：识别语音指令后自动操控手机。用于辅助用户完成跨应用操作。</string>
+    <string name="notif_title">语音助手运行中</string>
+    <string name="notif_text">点击返回应用（保活中）</string>
+    <string name="notif_projection_title">录屏截图兜底运行中</string>
+    <string name="notif_projection_text">用于无障碍截图失败时自动切换的屏幕捕获</string>
+    <string name="a11y_down_title">语音助手无障碍服务已断开</string>
+    <string name="a11y_down_text">点击重新开启无障碍服务，恢复语音操控</string>
+    <string name="channel_keepalive">保活服务</string>
+    <string name="channel_status">状态通知</string>
+</resources>
